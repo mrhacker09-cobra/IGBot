@@ -140,4 +140,4 @@ client.distube
     )
   );
 
-client.login(process.env.token);
+client.login('ODMwNzA2NTg2MTI4NDgyMzA1.YHKlyw.uXDM0gs-2MQBSbq7ps9JI6A4ozI');
